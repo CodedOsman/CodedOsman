@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/codedosman" target="blank"><img src="https://img.shields.io/twitter/follow/codedosman?logo=twitter&style=for-the-badge" alt="codedosman" /></a> </p>
 
-- 🔭 I’m currently working with **STEMAIDE Africa as a STEM Instructor and Junior Developer**
+- 🔭 I’m currently working with **STEMAIDE Africa as a STEM Instructor and Lead Developer**
 
 - 🌱 I’m currently playing **LLMs & AI Agents**
 
