@@ -17,7 +17,7 @@ PHP (MVC) · JavaScript (ES6 / AJAX) · Python · C++ · .NET · Node.js · Djan
 Bootstrap · HTML5 · CSS3 · React
 
 **Data & Infrastructure**
-MySQL · SQL Server · Git · Docker · Linux · REST APIs
+Postgres · MySQL · SQL Server · Git · Docker · Linux · REST APIs
 
 **Hardware & Embedded**
 Arduino · C · C++
