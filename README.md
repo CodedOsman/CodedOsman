@@ -14,13 +14,13 @@ I'm comfortable at every layer of the stack and equally comfortable in the room 
 PHP (MVC) · JavaScript (ES6 / AJAX) · Python · C++ · .NET · Node.js · Django
 
 **Frontend**
-Bootstrap · HTML5 · CSS3 · React *(learning)*
+Bootstrap · HTML5 · CSS3 · React
 
 **Data & Infrastructure**
 MySQL · SQL Server · Git · Docker · Linux · REST APIs
 
 **Hardware & Embedded**
-Arduino · C
+Arduino · C · C++
 
 **Other**
 mkdocs · Adobe Illustrator · Graphic Design · Technical Documentation
