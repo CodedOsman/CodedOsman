@@ -48,7 +48,7 @@ mkdocs · Adobe Illustrator · Graphic Design · Technical Documentation
 
 ---
 
-## Currently looking for
+## Acceptable Challenge
 
 A remote-friendly role where I can own meaningful work, contribute to a strong team, and keep building things that matter — regardless of geography.
 
